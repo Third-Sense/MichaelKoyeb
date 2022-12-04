@@ -1,2 +1,1 @@
-web: python3 bot.py
-Footer
+web: python3 bot.py 
